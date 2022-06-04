@@ -1,0 +1,36 @@
+body{
+	background-color: dodgerblue;
+}
+div{
+	width: 300px;
+	height: 300px;
+	border: solid 5px yellow;
+	margin: 50px;
+}
+.third, .fourth{
+	width: 700px;
+	height: 75px;
+	background-color: orange;
+}
+.first{
+	border: double 5px yellow;
+	background-image: url(https://marketingliverpool.co.uk/wp-content/uploads/2017/02/gradient.png);
+}
+.fifth{
+    width: 350px;
+    height: 350px;
+    margin: 50px;
+    background-color: red;
+}
+.sixth{
+	width: 250px;
+	height: 250px;
+	margin: 50px;
+	background-color: orange;
+}
+.seventh{
+	width: 150px;
+	height: 150px;
+	margin: 50px;
+	background-color: yellow;
+}

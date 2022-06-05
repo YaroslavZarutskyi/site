@@ -60,7 +60,9 @@ h2{
 	color: white;
 }
 iframe{
-        margin-left: 300px;
+    display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 footer{
 	height: 100px;
